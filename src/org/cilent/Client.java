@@ -5,6 +5,8 @@ public class Client {
 		public void cilentName() {
 			String name=  "Scribbles";
 			System.out.println("Company Name"+name);
+			System.out.println("Remote");
+			System.out.println("Retry");
 }
 
 }
